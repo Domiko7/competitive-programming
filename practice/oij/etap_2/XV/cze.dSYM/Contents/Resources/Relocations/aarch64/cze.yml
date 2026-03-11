@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dominik/Desktop/files/c++/competitive-programming/oij/etap_2/XV/cze'
+relocations:
+  - { offset: 0x2AF5E, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xBCDFC, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x2BB67, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_cze.cpp, symObjAddr: 0x1E0, symBinAddr: 0x100000870, symSize: 0x14 }
+  - { offset: 0x2BB7F, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x1A4, symBinAddr: 0x100000834, symSize: 0x3C }
+  - { offset: 0x2BB9E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000006A8, symSize: 0x18C }
+...
